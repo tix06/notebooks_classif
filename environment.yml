@@ -5,8 +5,8 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - sklearn
+  - scikit-learn
   - seaborn
-  - re
+  - regex
   - networkx
   
